@@ -1,1 +1,22 @@
 @charset "UTF-8";
+
+*{
+    height: 0px;
+    width: 0px;
+}
+
+main{
+    background-color: black;
+    
+}
+
+section{
+    background-color: rgba(0, 0, 0, 0.418);
+    text-align: center;
+    width: 500px;
+    height: 500px;
+    
+    
+    
+
+}
