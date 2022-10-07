@@ -32,6 +32,24 @@
     div#formulario{
         font-size: 1.2em;
     }
+
+    input#ilogin{
+        width: 380px;
+        height: 29px;
+        margin-block: 5px;
+    }
+
+    input#isenha{
+        
+
+        width: 380px;
+        height: 29px;
+        margin-block: 5px;
+    
+
+    }
+
+
 }
 
 @media  screen and (min-width: 992px) {
@@ -63,6 +81,23 @@
     
     div#formulario{
         font-size: 1.2em;
+    }
+
+    input#ilogin{
+        width: 380px;
+        height: 29px;
+        margin-block: 5px;
+    }
+
+    input#isenha{
+        
+
+        width: 380px;
+        height: 29px;
+        margin-block: 5px;
+    
+    
+
     }
 
     
